@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+     }
+
+.cabeçalho{
+    background-color: #5521EA
+            
+    }
+    
+      .cabeçalho-imagem{
+        width: 60%;
+        text-align: center;
+       
+    }
+
+.escola{
+    background-image: linear-gradient(#5521EA,rgba(227, 192, 255, 0.836));
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+.escola-div-conteudo{
+    width: 70%;
+}
+
+.estudante-imagem{
+    width: 210px;
+    
+}
+.foto-de-fundo{
+    text-align: center;
+}
+.todas-ajudas{
+    display: grid;
+    grid-template-columns: 21% 21% 21%  21%;
+}
+
+.estudante{
+    background-color: rgba(83, 203, 224, 0.521);
+}
+
+
+.todos-gatos{
+    width: 60%
+    
+   display grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+}
+.nomes-deles{
+    display: grid;
+    grid-template-columns: 15% 15% 13% 13% 13% 13%;
+}
+
+.sobre-eles{
+    display: grid;
+    grid-template-columns: 90% 90% 90% 90% 90% 90%;
+}
+
+.gatos{
+    background-color: rgba(206, 95, 173, 0.589);
+}
+
+.informaçoes-do-site{
+    background-color: rgba(137, 43, 226, 0.397);
+}
+.link-1{
+    width: 10%;
+
+}
+
+.link-2{
+    width: 10%;
+}
+
+.rodape{
+    background-color: #5521EA;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 70px;
+    padding: 12px 0;
+
+}
